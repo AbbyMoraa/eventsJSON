@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Spring Music Night",
+      "description": "Enjoy performances from talented students.",
+      "category": "Music",
+      "date": "April 5, 2026 · 6:00 PM",
+      "image": "https://media.istockphoto.com/id/1319479588/photo/the-musicians-were-playing-rock-music-on-stage-there-was-an-audience-full-of-people-watching.jpg?s=612x612&w=0&k=20&c=OrGoVzFYygF904aMkM38N_v53yyBI5D_aWkpZZhTvEY="
+    },
+    {
+      "id": 2,
+      "title": "Sports Day",
+      "description": "Cheer on your favorite teams and join fun competitions.",
+      "category": "Sports",
+      "date": "May 12, 2026 · 9:00 AM",
+      "image": "https://media.istockphoto.com/id/1062855462/photo/group-of-multiracial-young-people-playing-basketball-outdoors.jpg?s=612x612&w=0&k=20&c=hnb0YRdHuY2m3iflwrV1kq1d4h5ckMSaRVPt0Gv3Qc8="
+    },
+    {
+      "id": 3,
+      "title": "Book Fair",
+      "description": "Discuss your favorite books with other students.",
+      "category": "Book Fair",
+      "date": "June 20, 2026 · 10:00 AM",
+      "image": "https://media.istockphoto.com/id/1203222137/photo/shoppers-at-big-bad-wolf-book-fair-in-yangon-the-worlds-biggest-book-sale.jpg?s=612x612&w=0&k=20&c=KXI_R1_kFPtruVvC_xlM3hSVEB6NaB80w0k_xl7twYw="
+    },
+    {
+      "id": 4,
+      "title": "Science Expo",
+      "description": "Explore amazing student projects and experiments.",
+      "category": "Academic",
+      "date": "July 10, 2026 · 11:00 AM",
+      "image": "https://media.istockphoto.com/id/1277261731/photo/student-giving-science-experiment-presentation.jpg?s=612x612&w=0&k=20&c=y0yX9Qf4rVjd0R8FUPMKmTk5Vn4gZtO_wkCZsXICy1A="
+    },
+    {
+      "id": 5,
+      "title": "Art Festival",
+      "description": "See creative artworks from students across campus.",
+      "category": "Arts",
+      "date": "August 15, 2026 · 2:00 PM",
+      "image": "https://media.istockphoto.com/id/1277965865/photo/student-art-exhibition.jpg?s=612x612&w=0&k=20&c=VZXyZr0vFjEq_uz2h5CFA1L3N7wVf3t5KgnCkpPbUDo="
+    }
+  ]
+}
